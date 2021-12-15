@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABSIbpa27lE2eSauyzZIodgAAAAACAAAAAAAQZgAAAAEAACAAAADIw8Iirl/nR7y41ko42rmtrPsF3ACUhezhFgqf91hvaAAAAAAOgAAAAAIAACAAAAB+EmXMcfa5+0dBAbuV5wIVoOBj+qww5TYVL9hagThb5IAAAABDJyRMxiEAi5YZ71FwCC7fhy+1pA5gj0eDzvocSBS5LWJI9BvdzQ7f5qosNtpI0EDpDi0C8+aeD+Vk9+XvGTxlQU6+VkVz+ltwp7zM9RKumjEceKQpLDkhYH+1j+Od0F1SvCESsvbfvz0B+aeAeOq5B9RuHzrYj/MoZ95w3PHDXEAAAAAfLboiMktAVklL9Wus6hoFtMpQQe/ffU8im5dh6MJULhTykY/HsS/purUcAHMgIep8wKipoVjoGqPBVeNQ33iK</EncryptedPassword>
+    <History>True|2021-12-13T08:15:43.7158239Z;True|2021-12-13T00:09:42.3662242-08:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="MoviesAPI.ApplicationDbContext">
+      <Value>Data Source=tcp:moviesapidbserver789.database.windows.net,1433%3bInitial Catalog=MoviesAPI_db%3bUser Id=jasman95%40moviesapidbserver789%3bPassword=parleG%40789</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
