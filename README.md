@@ -1,1 +1,1 @@
-MoviesDatabase
+Movies Database is a single page application (SPA) developed with Angular, Web API development with ASP.NET Core using C# and backend using a SQL Server database with an entity core framework, reactive forms in Angular, User system with JSON Web Tokens (JWT), Using maps with leaflet, and allow admin to upload images to be saved to Azure Storage.
